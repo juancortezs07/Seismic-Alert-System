@@ -10,6 +10,8 @@
     - Predict high-magnitude seismic replicas, tsunamis, volcano eruptions after a mayor earthquake. 
     
     - Implement an alert and comunication system for civil population based on the predictions.
+    
+    - Analyze the earthquake social impact via social media
 
 
 ## KPIs:
