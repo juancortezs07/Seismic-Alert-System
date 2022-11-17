@@ -20,7 +20,7 @@
     - Earthquake magnitude over time
     - Economic loss evolution
     - Investment to mitigate earthquake effects over time
-    - 
+    - Social sentiment toward earthquakes
     -
 
 
