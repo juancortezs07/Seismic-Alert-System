@@ -14,8 +14,31 @@ We aim to achieve a convincing and helpfull analysis trough a dashboard to Chile
 
 ## Objectives
 
+This project covers a wide variety of objectives, some linked to the nature of earthquakes and others to their socio-economic impact. This goals are the following:
+
+    - Identify areas with high magnitude seismic risk with potential capacity for massive destruction, in order to concentrate investments and increase the capacity to respond to earthquakes.
+
+    - Determine and analyze if there was evolution in the quality of constructions and preventive measures in the determined time.
+
+    - Analyze the earthquake social impact via social media.
+
+    - Develop a machine learning model able to predict possible secondary effects based on historical data.
+
+    - Implement a communication system to alert the civilian population in the event of a potential earthquake
 
 ## KPIs
+
+In order to evaluate the this objectives and their potential improvements, we had to set a number of KPIs which gave us a clear undestanding of 
+
+    - Percentage of GDP allocated in the event of an earthquake (suggested budget for seismic emergency)
+
+    - Earthquake mortality rate by area 
+
+    - Frequency and probability of occurrence of a major earthquake
+
+    - Earthquake damage indicator comparizon between diferent geographical regions  
+
+
 
 
 ## Steps of the project
@@ -37,6 +60,7 @@ Once the data is storaged and normalized, is retrieved by BigQuery wich has an e
 
 ### Data Analysis
 
+The main focus of this project is given from an analytical point of view. From the large amount of data collected, we were able to evaluate different aspects of the earthquakes and their consequences. We are interested in being able to transmit the information obtained through dashboards in Microsoft Power BI or Streamlit.
 
 
 ### Machine Learning
