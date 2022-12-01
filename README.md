@@ -12,6 +12,7 @@ What we try to achieve in this project is the study of seismilogical data, and m
 
 We aim to achieve a convincing and helpfull analysis trough a dashboard to Chile specifically, and provide the population a web service to sort of translate what can be for the mayority of people complicated concepts regarding earthquakes.
 
+
 ## Objectives
 
 This project covers a wide variety of objectives, some linked to the nature of earthquakes and others to their socio-economic impact. This goals are the following:
@@ -88,3 +89,10 @@ But how can we make this information reach the population?
 We designed a web app making use of Streamlit, making the deploy online so people can get the information provided by the Data Warehouse and the models insights.
 
 Our objetive is to give all this information in a simple and reliable way of measuring the possibilities of future damage caused by an earthquake.
+
+
+## Gitbook
+
+This project is currently in the development process. All changes can be followed in the following gitbook: 
+
+https://aarons-organization.gitbook.io/earthquake-project1/
