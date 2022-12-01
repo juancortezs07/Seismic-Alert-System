@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "seismic-alert-system",
+  "private_key_id": "31876e79136bc2b5d7675ec9e78dc8c35e782106",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDPaQEJI/ArDiDQ\nxaG+UXDs4erJEY7T4cr0BIs1o0FrPHDeFkrZXglq44Qc/D13Pt8K3bu1KLFFrhQx\n8GIRk45IdPHFbjWC/heHH4paLraMT2pGezIQWHrjOsJE+s28401qH3IMMP18owUt\nSTEDstPFPFEfud47AvFBofGlV1/yxz13jdpHbeZxocHSWg2L4I3n7cXDIPR4ppJc\nQYHQ2Brat34mBbB+7VndHWqOT7olABXiYUC3h+/h+T7fXg5zE4REneJJIm0K0iX1\n7e3/4AeV1E+4pxAfypdPsqQD6U02vGLWB23Vg40p/A/j0b7zr9nznu19dnziIklo\npn6Iwb/vAgMBAAECggEAKiwaE0803rRFNN3yaL2rfebjs9V3mppvB1XDLnlO7GyC\nMI4M0wy9UngHXVNmdhAZDt8N8yRegyIFpi/P6O39QLtSi4fApq1egFGH8pVL9dSR\n8dnL0KoE9p30cU0jtxPqojjZmiP97rFA9LfMmQlr6M8+WXqT9qC/CE7S0QEml7jQ\njlY4zXvAd+0ygrrs9F+WQQBHivUBqS4GEg7PR0f7q1u+V+Rl0OQ1z28IlFL4YUE1\n7Ri9HC30kMHmDw823KRi7Gr+wmiH/3PNW6KMrv1xiYGMkE9+skLS3BxgS5kNhQwa\nax3xanKr8tgbWuaVsiBLSd2j2tZo5LEaKyQIk0tKfQKBgQDpeh1ebymLz2zfgGLQ\nwEii5h3JpCfgnCLUrB86V63FTykYRrVJOLg0d//7FNUhh8c2GN5F7trRbvkywu3g\nrCmDok5+iYXmUn8Zqf7VUEx3P76Gtn/vVwHSj8qhAgouni1MQ9VTVxkzrsF8gdN2\nFUDiQXVhMFR5rvt5MupOVXR+MwKBgQDjayZTVXdGRCeP7xiam5zJHd6ws9mRnWle\nYRdjuMTXhatukoqIY5JRIuWMsCJQ/XqEAkmU+ans13J0PLBOvw+95dRqL6Vk4TDO\nvDnIpp8b+XdAl32bh6hY4SgQYP1TtpV1FhzYd3p9L2uFsdE97wDei5jVtUM2+1y0\nIzYoFkHDVQKBgQDTXjUmYBbJtuCGupE7EUjxCMkg2pcrdc7moGipBeWQgijfDGxk\nvI+vGJBK+8Iz19tWs07PGv1Iq2G5PdXjF5mBzTeowNHTAQ6F6muFLGv9bV0MUj4i\nLK++s2SrPNCBAbxalfKTv39WVbhfAp2xAm66Jq6gbQOdIfgR8jFC94Q+FwKBgHvP\n+i2keitnL6LNKTgDQHi+Kl9Ji0obySH4+iLwlTpBK/QnFATtMNu7g/30ZrpxRiJY\nnHbe9gRbx5RA9jvpCUj5t4uYJROnBkuHbm4vSLCSQLqJv3jNgnnhG07Pfxv0a6oz\nP8EaSzWce41uIdz2IiMHHU48QTvN3cq04OcyNtuBAoGAOSeVwdqQAQpGmOHm03oV\nnYxne7GcKe3qTaFCB9RjQ2fZo1DsC2MNtz8oJIZXpBOiwiYHKsxEmn35Ho+PawFg\noiUeIyHUmdlrydRyCKm1HQsvne3XdEEbTG/4UX94F8VyTK5JDgbiN8jfWH+sMg24\nDpn/x0TzkBHfeqQr2eRmle8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "seismic-alert-system@appspot.gserviceaccount.com",
+  "client_id": "103384643081637427227",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/seismic-alert-system%40appspot.gserviceaccount.com"
+}
