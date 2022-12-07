@@ -1,6 +1,10 @@
 # Seismic-Alert-System
 
+-----
+
 ## Project Summary
+
+-----
 
 In this proyect we are are playing the role of a team designated to the study and analysis of seismilogical activity in Chile.
 
@@ -15,6 +19,8 @@ We aim to achieve a convincing and helpfull analysis trough a dashboard to Chile
 
 ## Objectives
 
+-----
+
 This project covers a wide variety of objectives, some linked to the nature of earthquakes and others to their socio-economic impact. This goals are the following:
 
     - Identify areas with high magnitude seismic risk with potential capacity for massive destruction, in order to concentrate investments and increase the capacity to respond to earthquakes.
@@ -28,6 +34,8 @@ This project covers a wide variety of objectives, some linked to the nature of e
     - Implement a communication system to alert the civilian population in the event of a potential earthquake
 
 ## KPIs
+
+-----
 
 In order to evaluate the this objectives and their potential improvements, we had to set a number of KPIs which gave us a clear undestanding of 
 
@@ -46,6 +54,8 @@ In order to evaluate the this objectives and their potential improvements, we ha
 
 ### Data Engenieering
 
+-----
+
 For this step in the project, we decided to build the follwing ETL process in GCP, to be later used in PowerBI and Streamlit.
 
 ![ETL_GCP](https://user-images.githubusercontent.com/107011436/204930224-579ed636-4105-48c8-8693-a98310326156.png)
@@ -61,10 +71,14 @@ Once the data is storaged and normalized, is retrieved by BigQuery wich has an e
 
 ### Data Analysis
 
+-----
+
 The main focus of this project is given from an analytical point of view. From the large amount of data collected, we were able to evaluate different aspects of the earthquakes and their consequences. We are interested in being able to transmit the information obtained through dashboards in Microsoft Power BI or Streamlit.
 
 
 ### Machine Learning
+
+-----
 
 Since predicting earthquakes is quite a difficult and not so reliable thing to do, we want to be able to succesfully classify the recent earthquakes by it's damage potencial, and predict if there could be a tsunami following after.
 
@@ -90,8 +104,36 @@ We designed a web app making use of Streamlit, making the deploy online so peopl
 
 Our objetive is to give all this information in a simple and reliable way of measuring the possibilities of future damage caused by an earthquake.
 
+### Web App
 
-## Gitbook
+-----
+
+![homepage](https://user-images.githubusercontent.com/107011436/206320058-dbdb8f40-c6c3-45a0-82b3-d76b5cb0401f.png)
+
+The app provides the following features:
+
+- Most recent earthquakes in US, Japan and Chile
+
+Provides data of the latest earthquakes and it's percentage for country 
+
+![last_earthquakes](https://user-images.githubusercontent.com/107011436/206320604-957568f0-893b-42d9-916b-f659dad19c4d.png)
+
+- World Map
+
+Providing the earthquakes locations, density distribution, and information for the user regarding it's location and filtering options
+
+![world_map](https://user-images.githubusercontent.com/107011436/206321173-4ce7da9c-aba9-460e-8345-6047005aece9.png)
+
+- Mayor Earthquakes Data
+
+Data from mayor earthquakes occurred in the US, Japan and Chile. Given visuals of the data between the countries and the damages caused
+
+![mayor_data](https://user-images.githubusercontent.com/107011436/206321654-73c3d450-3edb-4a2a-b684-53b664e72b54.png)
+
+
+# Gitbook
+
+-----
 
 This project is currently in the development process. All changes can be followed in the following gitbook: 
 
