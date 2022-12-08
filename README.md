@@ -84,19 +84,25 @@ Since predicting earthquakes is quite a difficult and not so reliable thing to d
 
 To perform this classification we made use of a KMeans machine learning model, to clusterize the earthquakes by their magnitude and depth.
 
-(images of the model metrics and performance)
+![kmeans_distr](https://user-images.githubusercontent.com/107011436/206577223-ad09e384-47bf-4425-8b39-0d28fd4f1709.png)
 
-For the prediction of possible tsunamis, we used a GradientBoost machine leraning model, taking the magnitude, depth, latitude and longitude of the earthquake.
+![kmeans_siloute_score](https://user-images.githubusercontent.com/107011436/206577252-7ab6844d-fdf6-40fd-b5b8-8d988e9b8a8a.png)
 
-![gradientboost](https://user-images.githubusercontent.com/107011436/204930625-b15c6a96-0365-47b8-b093-2218e5fbea0e.png)
+For the prediction of possible tsunamis, we used a GradientBoost machine leraning model, taking the magnitude and depth of an earthquake.
 
-Model Accuracy:
+![gradient_archi](https://user-images.githubusercontent.com/107011436/206578264-2615a7d1-e6c3-49d0-8167-7bc0212e85a2.png)
 
-![gradient_accuracy](https://user-images.githubusercontent.com/107011436/204930855-7a3afa73-67dd-4d9b-8989-3d0d61df93b7.png)
+- Model Accuracy:
 
-Model F1Score:
+![gradiente_scores acc](https://user-images.githubusercontent.com/107011436/206577522-f1f7fe27-5932-4716-84a7-3b581e3622b6.png)
 
-![gradient_f1score](https://user-images.githubusercontent.com/107011436/204930941-00c2a6f0-5e19-4a97-aeef-4392d94e17c4.png)
+- Model F1Score:
+
+![gradiente_scores f1](https://user-images.githubusercontent.com/107011436/206577669-ba9e3973-263c-4e1c-99c8-7b9654993702.png)
+
+- Model matrix with evaluation data:
+
+![gradient_matrix](https://user-images.githubusercontent.com/107011436/206577929-6ceedbd6-f1ea-4774-85aa-7ba6545af615.png)
 
 But how can we make this information reach the population?
 
